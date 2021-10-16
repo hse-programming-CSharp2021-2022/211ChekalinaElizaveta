@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.exe
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.deps.json
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.dll
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\ref\Task02.dll
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\bin\Debug\net5.0\Task02.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.dll
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\ref\Task02.dll
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar02\Task02\obj\Debug\net5.0\Task02.genruntimeconfig.cache

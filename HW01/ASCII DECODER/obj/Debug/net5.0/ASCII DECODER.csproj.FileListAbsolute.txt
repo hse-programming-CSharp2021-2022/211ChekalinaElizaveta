@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.exe
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.deps.json
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.dll
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ref\ASCII DECODER.dll
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\bin\Debug\net5.0\ASCII DECODER.pdb
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.dll
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ref\ASCII DECODER.dll
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.pdb
+C:\Users\~C-o-L\RiderProjects\HW01\ASCII DECODER\obj\Debug\net5.0\ASCII DECODER.genruntimeconfig.cache

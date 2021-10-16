@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.exe
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.deps.json
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.dll
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\ref\Task09.dll
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\bin\Debug\net5.0\Task09.pdb
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.dll
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\ref\Task09.dll
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.pdb
+C:\Users\~C-o-L\RiderProjects\ConsoleApp1\Task09\obj\Debug\net5.0\Task09.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.exe
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.deps.json
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.dll
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\ref\Testt.dll
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\bin\Debug\net5.0\Testt.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.dll
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\ref\Testt.dll
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar07\Testt\obj\Debug\net5.0\Testt.genruntimeconfig.cache

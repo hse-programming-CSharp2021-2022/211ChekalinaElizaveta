@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.exe
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.deps.json
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.dll
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\ref\Task03.dll
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\bin\Debug\net5.0\Task03.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.dll
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\ref\Task03.dll
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar04\Task03\obj\Debug\net5.0\Task03.genruntimeconfig.cache
