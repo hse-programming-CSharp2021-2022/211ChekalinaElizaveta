@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.exe
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.deps.json
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.dll
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\ref\Seminar11.11.dll
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\bin\Debug\net5.0\Seminar11.11.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.dll
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\ref\Seminar11.11.dll
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.pdb
+C:\Users\~C-o-L\RiderProjects\Seminar11.11\obj\Debug\net5.0\Seminar11.11.genruntimeconfig.cache
