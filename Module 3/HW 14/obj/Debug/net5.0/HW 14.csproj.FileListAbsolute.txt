@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.exe
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.deps.json
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.dll
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\ref\HW 14.dll
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\bin\Debug\net5.0\HW 14.pdb
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.dll
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\ref\HW 14.dll
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.pdb
+C:\Users\~C-o-L\RiderProjects\Homework\HW 14\obj\Debug\net5.0\HW 14.genruntimeconfig.cache

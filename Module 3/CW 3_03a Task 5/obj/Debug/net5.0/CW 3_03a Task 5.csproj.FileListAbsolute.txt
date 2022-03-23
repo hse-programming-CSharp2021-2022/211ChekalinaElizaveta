@@ -1,0 +1,16 @@
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.exe
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.deps.json
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.runtimeconfig.json
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.runtimeconfig.dev.json
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.dll
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\ref\CW 3_03a Task 5.dll
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\bin\Debug\net5.0\CW 3_03a Task 5.pdb
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.dll
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\ref\CW 3_03a Task 5.dll
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.pdb
+C:\Users\~C-o-L\RiderProjects\Homework\CW 3_03a Task 5\obj\Debug\net5.0\CW 3_03a Task 5.genruntimeconfig.cache

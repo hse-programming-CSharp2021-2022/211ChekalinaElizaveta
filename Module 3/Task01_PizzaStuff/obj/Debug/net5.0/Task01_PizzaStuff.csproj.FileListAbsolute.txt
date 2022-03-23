@@ -1,0 +1,12 @@
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\bin\Debug\net5.0\Task01_PizzaStuff.deps.json
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\bin\Debug\net5.0\Task01_PizzaStuff.dll
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\bin\Debug\net5.0\ref\Task01_PizzaStuff.dll
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\bin\Debug\net5.0\Task01_PizzaStuff.pdb
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.csproj.AssemblyReference.cache
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.AssemblyInfoInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.AssemblyInfo.cs
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.csproj.CoreCompileInputs.cache
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.dll
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\ref\Task01_PizzaStuff.dll
+C:\Users\~C-o-L\RiderProjects\Homework\Task01_PizzaStuff\obj\Debug\net5.0\Task01_PizzaStuff.pdb
